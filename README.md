@@ -13,11 +13,11 @@
 > **Ürün arayüzü tasarımı kodlama aşamasına geçiyor.**  
 > Aşağıdaki ekran görüntüleri mevcut V3.1 masaüstü ürün yönünü gösterir. 
 
-### Koyu Arayüz
+### Arayüz
 
 ![CAIMAX V3.1 Koyu Masaüstü](https://raw.githubusercontent.com/muratbozkus/what-is-caimax/main/engd.png)
 
-### Açık Arayüz
+### Arayüz
 
 ![CAIMAX V3.1 Açık Masaüstü](https://raw.githubusercontent.com/muratbozkus/what-is-caimax/main/engl.png)
 
