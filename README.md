@@ -11,7 +11,7 @@
 ## CAIMAX V3.1 — Windows Masaüstü
 
 > **Ürün arayüzü tasarımı kodlama aşamasına geçiyor.**  
-> Aşağıdaki ekran görüntüleri mevcut V3.1 masaüstü ürün yönünü gösterir. Bunlar arayüz tasarımlarıdır; ekranda görünen her yeteneğin bugün production seviyesinde tamamlandığı anlamına gelmez.
+> Aşağıdaki ekran görüntüleri mevcut V3.1 masaüstü ürün yönünü gösterir. 
 
 ### Koyu Arayüz
 
